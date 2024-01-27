@@ -2,6 +2,8 @@
 
 a test demo for 2D Rendering
 
-![image-20240128010135329](C:\Users\nagisa\AppData\Roaming\Typora\typora-user-images\image-20240128010135329.png)
+![image-20240128010135329](1.png)
 
-![image-20240128010110322](C:\Users\nagisa\AppData\Roaming\Typora\typora-user-images\image-20240128010110322.png)
+
+
+![image-20240128010110322](2.png)
